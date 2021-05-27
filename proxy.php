@@ -3,7 +3,6 @@
 const API_KEY = 'JruYd0XUwK3ABPpti3XZy17Lq9l6FPRf4SQ1Hhyk';
 const API_URL = 'https://api.postcodeapi.nu/v3/lookup/'; 
 
-// De headers worden altijd meegestuurd als array
 $headers = [];
 $headers[] = 'X-Api-Key: '. API_KEY;
 
