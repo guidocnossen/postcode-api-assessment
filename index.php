@@ -44,7 +44,7 @@
 	    </div>
 
 	    <div class="container api-result">
-	    	<h2>Bedankt uw inzending!</h2>
+	    	<h2>Bedankt voor uw inzending!</h2>
 	    	<p id="mail"></p>
 	    	<p id="name"></p>
 	    	<p id="zip"></p>
