@@ -23,13 +23,13 @@
 			   	<label for="lname">Achternaam</label>
 			    <input type="text" name="achternaam" placeholder="Cnossen" required>
 			
-			    <div class="adress">
-			    	<div class="adress-item">
+			    <div class="address">
+			    	<div class="address-item">
 					    <label for="zip">Postcode</label>
 					    <input type="text" name="zip" placeholder="1234AB" required>
 					</div>
 
-					<div class="adress-item">
+					<div class="address-item">
 					   	<label for="number">Huisnummer</label>
 					    <input type="text" name="number" placeholder="10" required>
 					</div>
