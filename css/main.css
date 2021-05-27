@@ -43,19 +43,19 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
-.adress {
+.address {
 	display: flex;
 	flex-direction: row;
 	width: 100%;
 }
 
-.adress-item {
+.address-item {
 	display: flex;
 	flex-direction: column;
 	width: 50%;
 }
 
-.adress-item:first-child {
+.address-item:first-child {
 	margin-right: 1em; 
 }
 
